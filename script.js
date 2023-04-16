@@ -9,7 +9,7 @@ if(localStorage.getItem("mode") === "Dark Mode"){
     body.classList.add("dark");
     modeswitch.textContent = "Light Mode";
 }
-
+// lkj;lkj;l 
 //add a click vent listner to mode switch 
 modeswitch.addEventListener('click', () => {
     //toggle the dark class on the body element 
